@@ -41,6 +41,6 @@ def quizGame2(qna):
     print(f'Final score: {score}')
 
 
-# quizGame1(questions, answers)
+quizGame1(questions, answers)
 
-quizGame2(QUESTIONS_AND_ANSWERS)
+# quizGame2(QUESTIONS_AND_ANSWERS)
