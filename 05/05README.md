@@ -11,7 +11,7 @@ Then there are also city taxes, you can optionally include these in your program
 
 The caveat is that taxes are not calculated on the full gross salary, instead we first deduct a standard deduction and only calculate taxes based on the deducted amount.
 
-Figures for standard deductions are show in the starter file.
+Standard deduction amounts are different for federal and state taxes - values of these are listed in the starter file
 
 Lastly, we deduct FICA (Federal Insurance Contributions ) from the salary, but crucially, this is calculated based on gross salary before the standard deduction.
 
