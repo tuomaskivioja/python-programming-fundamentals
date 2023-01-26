@@ -15,6 +15,8 @@ Figures for standard deductions are show in the starter file.
 
 Lastly, we deduct FICA (Federal Insurance Contributions ) from the salary, but crucially, this is calculated based on gross salary before the standard deduction.
 
+FICA is a flat 7.65% on incomes below 147,000. You can optionally look up how to calculate this for higher incomes, the rates are slightly more complex.
+
 ## Your task
 
 Givedn a gross salary, GROSS_SALARY and state, STATE, calculate net salary after tax and FICA up to a salary of $100,000. (you can do it for all salary levels if you want)
